@@ -1,3 +1,5 @@
+package Capstone1
+
 object Main{
   def main(args: Array[String]):Unit= {
     val machine = new VendingMachine
